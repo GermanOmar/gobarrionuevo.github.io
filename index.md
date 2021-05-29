@@ -1,6 +1,7 @@
 ## Germán Omar Barrionuevo GitHub Pages
 
 title: Omar Barrionuevo Page
+
 description: site to share relevant information 
 
 You can use the [editor on GitHub](https://github.com/GermanOmar/gobarrionuevo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
